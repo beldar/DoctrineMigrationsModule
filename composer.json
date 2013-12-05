@@ -22,7 +22,7 @@
         {
             "name": "Marti Planellas",
             "email": "beldar.cat@gmail.com"
-        },
+        }
     ],
     "require": {
         "php": ">=5.3.3",
