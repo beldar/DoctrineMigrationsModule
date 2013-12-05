@@ -1,5 +1,5 @@
 {
-    "name": "murganikolay/doctrine-migrations-module",
+    "name": "beldar/doctrine-migrations-module",
     "description": "Doctrine migrations module for Zend Framework 2",
     "homepage": "https://github.com/MurgaNikolay/DoctrineMigrationsModule",
     "type": "library",
@@ -18,7 +18,11 @@
         {
             "name": "Murga Nikolay",
             "email": "work@murga.kiev.ua"
-        }
+        },
+        {
+            "name": "Marti Planellas",
+            "email": "beldar.cat@gmail.com"
+        },
     ],
     "require": {
         "php": ">=5.3.3",
